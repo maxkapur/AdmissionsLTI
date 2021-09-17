@@ -1,0 +1,1 @@
+# Linear time invariant model of admissions trends
